@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#f37421</color>
+    <color name="colorPrimaryDark">#f37421</color>
+    <color name="colorAccent">#fffcfa</color>
+    <color name="azure">#f1f5f8</color>
+</resources>
